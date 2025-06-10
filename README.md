@@ -14,7 +14,7 @@ API REST para gestão de consultas.
 ## Tecnologias Utilizadas
 
 - **[Java 17+](https://www.oracle.com/java)**
-- **Spring Boot(https://spring.io/projects/spring-boot)**
+- **[Spring Boot](https://spring.io/projects/spring-boot)**
 - **[Maven](https://maven.apache.org)**
 - **[MySQL](https://www.mysql.com)**
 - **JPA/Hibernate(https://hibernate.org)**
